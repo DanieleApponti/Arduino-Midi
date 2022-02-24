@@ -1,2 +1,2 @@
-# Electronic Keyboard 49 
+# Electronic Midi Master Keyboard 49 
 Arduino Nano
