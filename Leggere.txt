@@ -1,0 +1,11 @@
+
+Firmware originale di "fuegovic" per tastiera 39 tasti.
+Pitch Bend, Modulation, Velocity Pot e Transposition (ottave o semitoni),
+su un Arduino Nano.
+Un potenziometro per poter regolare la velocità (su tutte le note). 
+Per le funzioni di trasposizione si utilizzano  3 pulsanti: ottava su, ottava giù, “mode”
+Se si preme il pulsante "mode" con i pulsanti su o giù, traspongo per semitoni invece che per ottave.
+Per ripristinare l'accordatura originale tenere premuto su e giù contemporaneamente.
+
+MODIFICA allo sketch per tastiera con una matrice a 49 tasti.
+Uscita MIDI.
